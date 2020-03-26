@@ -1,6 +1,7 @@
 @echo off
 @color 09
 @title Windows Utility Beta 1.0.2.1
+:: `bin\Data` source missing
 cd bin\Data
 mode con cols=111 lines=50 >nul
 :Main
